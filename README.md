@@ -1,7 +1,7 @@
 # Time Series Prediction
 
-Name - Ritwik Khanna
-Roll No - 101917131
+Name - Ritwik Khanna <br>
+Roll No - 101917131 <br> 
 Group - 4CSE6
 
 ## Task
@@ -11,4 +11,4 @@ To Predict the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 for yea
 Light Gradient Boosting Machine is used to solve this problem.
 
 ## Results
-Final RMSE value obtained is 78.25
+Final RMSE value obtained is 34.1
